@@ -2,7 +2,7 @@
 
 This repository contains the complete analysis code for the article:
 
-> Shahab M. Preparation composition confounds treatment effects in cochlear synaptosomal proteomics: a nested machine learning reanalysis of cisplatin and MnTBAP exposure. Preprint, 2026. (Link to be added.)
+> Shahab M. Preparation composition confounds treatment effects in cochlear synaptosomal proteomics: a nested machine learning reanalysis of cisplatin and MnTBAP exposure. Research Square. Preprint, 2026. [doi:10.21203/rs.3.rs-11340135/v1](https://doi.org/10.21203/rs.3.rs-11340135/v1)
 
 The code reanalyzes a TMTpro 16-plex proteomics dataset of mouse cochlear synaptosomes from four groups (Control, Cisplatin, MnTBAP+Cisplatin and MnTBAP, four biological replicates each). It starts from the raw reporter ion abundances in the Proteome Discoverer export. It regenerates every number, table and figure in the article.
 
@@ -43,7 +43,7 @@ The code reanalyzes a TMTpro 16-plex proteomics dataset of mouse cochlear synapt
 Python 3.11 was used.
 
 ```bash
-git clone https://github.com/<your-username>/cochlear-synaptosome-composition-ml.git
+git clone https://github.com/Monazzashahab/cochlear-synaptosome-composition-ml.git
 cd cochlear-synaptosome-composition-ml
 python3 -m venv .venv
 source .venv/bin/activate        # on Windows: .venv\Scripts\activate

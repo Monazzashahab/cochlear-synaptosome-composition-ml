@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Code for: Preparation composition confounds treatment effects in cochlear synaptosomal proteomics: a nested machine learning reanalysis of cisplatin and MnTBAP exposure"
+authors:
+  - family-names: Shahab
+    given-names: Monazza
+    affiliation: "Independent Researcher, Columbus, OH, USA"
+license: MIT
+date-released: 2026-10-10
+preferred-citation:
+  type: article
+  title: "Preparation composition confounds treatment effects in cochlear synaptosomal proteomics: a nested machine learning reanalysis of cisplatin and MnTBAP exposure"
+  authors:
+    - family-names: Shahab
+      given-names: Monazza
+  journal: "Research Square"
+  year: 2026
+  doi: "10.21203/rs.3.rs-11340135/v1"
